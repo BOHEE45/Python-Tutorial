@@ -38,3 +38,4 @@ x = {"key1":"value1", "key2":"value2"}
 
 x = set([5,2,1])   # 중복을 없애준다
 print()
+
